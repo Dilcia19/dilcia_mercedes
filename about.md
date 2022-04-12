@@ -5,6 +5,9 @@ title: A little about me
 
 <!-- ## A little about me: -->
 
+![alt text](https://github.com/dilcia19/dilciamercedes/blob/gh-pages/image.jpg?raw=true)
+
+
 Hi again! My name is Dilcia Mercedes (they/them), and I am a data journalist/developer interested in creating stories from data and building newsroom tools. A little about myself, I have worked at Big Local News since 2019. I joined the team as a data journalist, and since then have sharpened my programming and reporting skills. 
 
 In my time at Big Local News, I gained experience in managing and executing large data-driven projects; I learned to guide new journalism students in exploring data angles for their own projects; I immersed myself in the world of data and got to help other newsrooms report stories that they may have not published otherwise, all while closing out a few of my own.
