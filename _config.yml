@@ -1,7 +1,7 @@
 title: Welcome to my page!
 author: Dilcia Mercedes
 description: |
-  Hi 👋🏾 I’m [Dilcia]. I’m a data journalist/developer and below are some of my recent projects. I have more projects in the works and am hoping to update this page soon. In the meantime, if you want to know more about me, you guessed it - check the <a href="about">about page</a> out. If you want to check my blog posts out, click <a href="blog">here</a>. 
+  Hi 👋🏾 I’m *Dilcia*. I’m a data journalist/developer and below are some of my recent projects. I have more projects in the works and am hoping to update this page soon. In the meantime, if you want to know more about me, you guessed it - check the <a href="about">about page</a> out. If you want to check my blog posts out, click <a href="blog">here</a>. 
 
 permalink: /:slug
 

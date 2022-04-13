@@ -12,7 +12,7 @@ project_entries:
     desc: This is the NW project
 
   - title: WARN Notices
-    url: overview-post
+    url: warn-notices
     desc: This is the WARN project
 
   - title: School Enrollment
@@ -20,7 +20,7 @@ project_entries:
     desc: This is the School Enrollment project
 
   - title: JSK-BLN Data Reporting Grants
-    url: JSK-BLN-grant
+    url: jsk-bln-grant
     desc: This is the JSK-BLN Grants project
 
   - title: Hospital Beds Recipe
