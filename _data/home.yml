@@ -16,14 +16,14 @@ project_entries:
     desc: This is the WARN project
 
   - title: School Enrollment
-    url: 
+    url: school-enrollment
     desc: This is the School Enrollment project
 
   - title: JSK-BLN Data Reporting Grants
-    url: 
+    url: JSK-BLN-grant
     desc: This is the JSK-BLN Grants project
 
   - title: Hospital Beds Recipe
-    url: 
+    url: hospital-beds-recipe
     desc: This is a story recipe
 
