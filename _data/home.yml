@@ -8,7 +8,7 @@ navbar_entries:
 
 project_entries:
   - title: Narrative Watch
-    url: narrative-watch-overview-post
+    url: 
     desc: This is the NW project
 
   - title: WARN Notices
@@ -16,14 +16,14 @@ project_entries:
     desc: This is the WARN project
 
   - title: School Enrollment
-    url: school-enrollment-overview-post
+    url: 
     desc: This is the School Enrollment project
 
   - title: JSK-BLN Data Reporting Grants
-    url: JSK-BLN-grants
+    url: 
     desc: This is the JSK-BLN Grants project
 
   - title: Hospital Beds Recipe
-    url: hospital-beds-recipe
+    url: 
     desc: This is a story recipe
 
