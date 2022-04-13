@@ -8,11 +8,11 @@ navbar_entries:
 
 project_entries:
   - title: Narrative Watch
-    url: "../_posts/narrative-watch.md"
+    url: "./_posts/narrative-watch.md"
     desc: This is the NW project
 
   - title: WARN Notices
-    url: WARN-notices
+    url: overview-post
     desc: This is the WARN project
 
   - title: School Enrollment
