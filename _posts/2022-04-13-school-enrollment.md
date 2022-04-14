@@ -1,0 +1,1 @@
+The school enrollment project was a collaboration between Big Local News and the New York Times. We collected data at the state, district and local levels to figure out which schools were lacking in student enrollment. For this project, I mainly vetted data and with the help of co-workers standardized it/prepared it for comparisons at different levels. 

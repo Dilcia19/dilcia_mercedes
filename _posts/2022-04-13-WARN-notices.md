@@ -1,0 +1,3 @@
+Remember 2020? When COVID-19 was a world-disrupting disaster and we still knew very little about the virus? During that time, people were losing jobs due to restrictions and closures. Big Local News started collecting WARN Notices (Worker Adjustment and Retraining Notification), which are essentially mass layoff notices, for any states where we found them. That summer, a few co-workers and I built over 20 scrapers to capture the extent of the layoffs. Eventually, this led to a class project in Cheryl Phillips Watchdog Reporting class.
+
+Here’s my analysis of the WARN Notices in California and the story we published.
