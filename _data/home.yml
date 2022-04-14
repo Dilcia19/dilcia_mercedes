@@ -9,21 +9,21 @@ navbar_entries:
 project_entries:
   - title: Narrative Watch
     url: narrative-watch
-    desc: This is the NW project
+    desc: Narrative Watch & use of force
 
   - title: WARN Notices
     url: warn-notices
-    desc: This is the WARN project
+    desc: WARN Notices and Layoffs
 
   - title: School Enrollment
     url: school-enrollment
-    desc: This is the School Enrollment project
+    desc: The Pandemic Exoducs
 
   - title: JSK-BLN Data Reporting Grants
     url: jsk-bln-grant
-    desc: This is the JSK-BLN Grants project
+    desc: Data-driven stories, supported by JSK & BLN
 
-  - title: Hospital Beds Recipe
-    url: hospital-beds-recipe
-    desc: This is a story recipe
+  - title: Side Project
+    url: ds-and-algos
+    desc: non-work, work
 
