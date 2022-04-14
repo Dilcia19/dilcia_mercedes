@@ -17,13 +17,13 @@ project_entries:
 
   - title: School Enrollment
     url: school-enrollment
-    desc: The Pandemic Exoducs
+    desc: The Pandemic Exodus
 
   - title: JSK-BLN Data Reporting Grants
     url: jsk-bln-grant
     desc: Data-driven stories, supported by JSK & BLN
 
   - title: Side Project
-    url: ds-and-algos
+    url: personal-projects
     desc: non-work, work
 
