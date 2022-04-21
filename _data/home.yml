@@ -5,6 +5,9 @@ navbar_entries:
   - title: blog
     url: blog
 
+  - resume: resume
+    url: resume
+
 
 project_entries:
   - title: Narrative Watch
