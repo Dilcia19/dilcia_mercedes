@@ -8,12 +8,8 @@ navbar_entries:
   - title: resume
     url: resume
 
-  # - title: about
-  #   url: about
-
-  # - resume: about
-  #   url: about
-
+  - title: reresume
+    url: reresume
 
 project_entries:
   - title: Narrative Watch
