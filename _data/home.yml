@@ -5,8 +5,14 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - resume: resume
+  - title: resume
     url: resume
+
+  # - title: about
+  #   url: about
+
+  # - resume: about
+  #   url: about
 
 
 project_entries:
